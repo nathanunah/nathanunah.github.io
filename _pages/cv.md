@@ -11,30 +11,27 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Economics, University of Chicago, 2023
+* M.A. in Social Science, University of Chicago, 2024
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Winter 2023: Data Analysis Intern
+  * Center on Budget and Policy Priorities
+  * Supervisor: Arloc Sherman
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Winter 2022 - Present: Student Librarian
+  * University of Chicago
+  * Supervisor: LaShanda Jackson
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages (Spanish - Advanced, Portuguese - Beginner)
+* Computer Programming
+  * Machine Learning (Python)
+  * Data Analysis (R, STATA)
+  * Geographic Analysis (GIS)
+  * Databases (SQL)
 
 Publications
 ======
@@ -42,18 +39,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Co-founder of MathNC
+* Census Enumerator

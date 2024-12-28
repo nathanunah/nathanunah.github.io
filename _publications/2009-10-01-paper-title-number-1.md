@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 1"
+title: "Baby Bonds: A Universal Path to Ensure the Next Generation Has the Capital to Thrive"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2019-Dec-baby-bonds
+excerpt: 'This paper considers baby bonds as a long term solution to (racial) wealth inequality.'
+date: 2019-Dec
+venue: 'Insight Center for Community Economic Development'
+paperurl: 'https://socialequity.duke.edu/wp-content/uploads/2019/12/ICCED-Duke_BabyBonds_December2019-Linked.pdf'
+citation: 'Cassidy, C., Heydemann, R., Price, A., Unah, N., & Darity Jr, W. (2019). Baby bonds: A universal path to ensure the next generation has the capital to thrive. Available from Samuel Dubois Cook Center on Social Equity at Duke University and the Insight Center for Community Economic Development website at https://insightcced. org/wp-content/uploads/2019/12/ICCED-Duke_BabyBonds_December2019-Linked. pdf.'
+
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This paper considers baby bonds as a long term solution to (racial) wealth inequality.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](https://socialequity.duke.edu/wp-content/uploads/2019/12/ICCED-Duke_BabyBonds_December2019-Linked.pdf)
