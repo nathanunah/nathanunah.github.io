@@ -32,12 +32,6 @@ Skills
   * Data Analysis (R, STATA)
   * Geographic Analysis (GIS)
   * Databases (SQL)
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
