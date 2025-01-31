@@ -6,7 +6,7 @@ excerpt: 'This paper considers baby bonds as a long term solution to (racial) we
 date: 2019-Dec
 venue: 'Insight Center for Community Economic Development'
 paperurl: 'https://socialequity.duke.edu/wp-content/uploads/2019/12/ICCED-Duke_BabyBonds_December2019-Linked.pdf'
-citation: 'Cassidy, C., Heydemann, R., Price, A., Unah, N., & Darity Jr, W. (2019). Baby bonds: A universal path to ensure the next generation has the capital to thrive. Available from Samuel Dubois Cook Center on Social Equity at Duke University and the Insight Center for Community Economic Development website at https://insightcced. org/wp-content/uploads/2019/12/ICCED-Duke_BabyBonds_December2019-Linked. pdf.'
+citation: 'Cassidy, C., Heydemann, R., Price, A., Unah, N., & Darity Jr, W. (2019). Baby bonds: A universal path to ensure the next generation has the capital to thrive.'
 
 ---
 This paper considers baby bonds as a long term solution to (racial) wealth inequality.
